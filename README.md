@@ -26,7 +26,7 @@ This project aims to determine the linear regression model of happiness score fo
 * Life Expectancy, gauged by the quality of healthcare and the percentage of GDP put into the health budget, has the most influence over the decision to live in a country.
 * Quality of Education and Peacefulness come 2nd and 3rd respectively.
 
-## A descovered thing we learn from this project
+## A discovered thing we learn from this project
 * We considered Unemployment to be a crucial factor in deciding which country is best to live in; however, it has least correlation with all other variables.
 
 ## References
