@@ -4,9 +4,9 @@
 This is a Mini-Project for SC1015 which aims to resolve the following question:<br>
 *Which country is the best for a family to live in, based on life expectancy, education quality, and peacefulness of the country?*<br>
 This project contains 3 files:
-1. [Data Extraction]() (Merge four files and make a cleaned DataFrame.)
-2. [Data Exploration and Standardisation]() (Standardise data and display pair-plot.)
-3. [Data Visualisation and Machine Learning]() (Visualise data and conduct linear ligression.)
+1. [Data Extraction](https://github.com/Pxun02/ntu_sc1015_proj_group8/blob/main/Data%20Extraction%20and%20Standardisation.ipynb) (Merge four files and make a cleaned DataFrame.)
+2. [Data Exploration and Standardisation](https://github.com/Pxun02/ntu_sc1015_proj_group8/blob/main/Data%20Extraction.ipynb) (Standardise data and display pair-plot.)
+3. [Data Visualisation and Machine Learning](https://github.com/Pxun02/ntu_sc1015_proj_group8/blob/main/Data%20VIsualisation%20and%20Machine%20Learning.ipynb) (Visualise data and conduct linear ligression.)
 
 This project aims to determine the linear regression model of happiness score for each country and which country is the most "ideal" to live in.
 
